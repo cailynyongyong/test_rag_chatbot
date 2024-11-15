@@ -94,7 +94,6 @@ template = """From now on, you are an expert who finds and provides information 
 2. Never answer with information that is not in the context.
 3. If you do not know the content, say that you do not know.
 4. Make the explanation as detailed and long as possible.
-5. Make sure to answer in Korean!!
 
 context: {context}
 user input: {input}
